@@ -69,7 +69,10 @@ Tons of questions, right? Being self-employed requires taking action, and no: no
 
 That's why, given this world of lost _and_ blooming opportunities, I can't admire and respect enough those who navigate the world with such a straightforward and transparent approach. That's _also_ why I can't emphasize enough how proud I am when well-prepared, sensitive, and hardworking people like **Estefanía Linuesa Torrijos**, decide to leap into "the unknown". Could we call it "the unknown" after so many years of experience, though? I do not think so - and as you'll see if you visit [Estefanía Linuesa | Spanisch Sprachschule](https://estefania-sprachschule.vercel.app/), you'll probably agree with me. It was a matter of time!
 
-![Estefanía's academy](/assets/screenshots/Estefania-Sprachschule-02.png)
+
+<p align="center">
+    <img width="600" alt="Estefanía's academy visual asset." src="/assets/screenshots/Estefania-Sprachschule-02.png">
+</p> 
 
 > [!NOTE]
 > Although I'm mostly inclined to keep my repositories open to everyone, this is a **private project**. If you're interested in the codebase or if you would want me to share a template, please feel free to contact me!
@@ -256,7 +259,9 @@ Now, and before closing this chapter, allow me to highlight something. When I wo
 
 Although this is an unavoidable reality, things become even tougher when you **start anew and follow your dreams**, as happens with this upcoming Spanish academy. Today, I woke up thinking that **Estefanía Linuesa** is not only one of the most talented professionals that I had the pleasure to encounter; she's also an incredible human being, and believe me when I say that this willingness to share, commitment, sense of humor, responsibility, and organization are **key features only the greatest teachers stick to**.
 
-![Estefanía's academy](/assets/screenshots/Estefania-Sprachschule-06.png)
+<p align="center">
+    <img width="600" alt="Estefanía's academy visual asset." src="/assets/screenshots/Estefania-Sprachschule-06.png">
+</p> 
 
 A new era is about to start while some others did start already (_psssst... felicidades de nuevo, querida_). I could name many articles and professional references. I could spend hours talking about how much of an **outstanding professional** Stuttgart people have at reach. I could spend _days_ stressing how much of a great person I had the privilege to work with. For all these reasons, I chose to go with **a modern, surprising, minimalist yet clear platform allowing all my Stuttgart guys to get curious** about Estefanía Linuesa, her remarkable experience, and the incredible opportunity they have to learn the Spanish language, culture, and human values.
 
