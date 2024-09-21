@@ -2,8 +2,8 @@
 
 <p align="center">
   <a href="https://estefania-sprachschule.vercel.app/">
-    <img src="/assets/site-logo.webp" width="140" alt="Portfolio's favicon."
-      style="filter: drop-shadow(0px 0px 10px rgba(255, 255, 255, .7));">
+    <img src="/assets/site-logo.png" width="140" alt="Estefanía Sprachschule main logo."
+      style="border-radius: 20%; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);">
   </a>
 </p>
 <p align="center">
